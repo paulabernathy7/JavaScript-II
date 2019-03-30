@@ -2,11 +2,11 @@
 // Write a simple closure of your own creation.  Keep it simple!
 
 x = 2
-function add(x,y) {
+function add(y) {
   return x + y;
 }
 
-console.log(add(x,3))
+console.log(add(3))
 
 
 
